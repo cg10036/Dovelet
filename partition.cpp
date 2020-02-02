@@ -1,10 +1,9 @@
 #include <iostream>
-#include <string>
 
 using namespace std;
 
 int N;
-long long a[52][52];
+int a[52][52];
 int maxi;
 
 int main()
